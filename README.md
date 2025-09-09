@@ -17,8 +17,8 @@
 
 ---
 
-### 🧪Simulated Chemistry Experiment Project
-[🔗 化學實驗專題](https://github.com/ArthurArthurArthur0817/Chemistry)  
+### 🧪Interactive Chemistry Teaching Webpage
+[🔗 化學互動式教學網頁](https://github.com/ArthurArthurArthur0817/Chemistry)  
 結合化學實驗，利用程式編寫，以更加直覺的方式，不受限於材料以及地點，讓孩子們在線上就可以實際動手進行化學實驗。  
 **Tech:** JavaScript, API integration  
 
