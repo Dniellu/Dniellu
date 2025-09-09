@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Yu-Ting Lu
 
 ## 📚Self-introduction  
-🎓NTNU **Technology Application and Human Resource Development** + **Electrical Engineering** (Dual Major)  
-🎓TSMC Semiconductor Credit Course, **Credit Course Taught Entirely in English**  
-🔬A strong interest in semiconductor manufacturing processes and equipment  
+🎓NTNU **Technology Application and Human Resource Development** + **Electrical Engineering** (Dual Major) 
+
+🎓TSMC Semiconductor Credit Course, **Credit Course Taught Entirely in English** 
+
+🔬A strong interest in semiconductor manufacturing processes and equipment 
+
 💡Basic skills in the Internet of Things, the Web, and hardware and software integration  
 
 ---
