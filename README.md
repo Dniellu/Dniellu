@@ -23,7 +23,9 @@
 
 ### 🔧 2-bit Full Adder Layout Design (KLayout, G180 0.18µm)
 [🔗 2-bit Full Adder Layout Design](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design)  
-《Introduction to VLSI Final Project》成果，使用 **KLayout** 工具，依據 **G180 0.18µm 製程規格**完成 2-bit Full Adder 的版圖設計與驗證。
+使用 **KLayout** 工具，依據 **G180 0.18µm 製程規格**完成 2-bit Full Adder 的版圖設計與驗證。
+
+
 ---
 
 ### 🧪Interactive Chemistry Teaching Webpage
