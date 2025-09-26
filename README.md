@@ -18,6 +18,12 @@
 互動式智慧面板網站，包含時間顯示、教室導引、YouBike 與最新資訊查詢，並且做出實際的智慧路牌進行導引，將作品實際應用在師大校園中。  
 **Tech:** HTML, CSS, JavaScript  
 
+
+---
+
+### 🔧 2-bit Full Adder Layout Design (KLayout, G180 0.18µm)
+[🔗 2-bit Full Adder Layout Design](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design)  
+《Introduction to VLSI Final Project》成果，使用 **KLayout** 工具，依據 **G180 0.18µm 製程規格**完成 2-bit Full Adder 的版圖設計與驗證。
 ---
 
 ### 🧪Interactive Chemistry Teaching Webpage
@@ -33,11 +39,7 @@
 Python 資料分析與視覺化專案集合，涵蓋數據清理、探索式分析與統計建模。  
 **Tech:** Python, Pandas, Matplotlib  
 
----
-
-### 🔧 2-bit Full Adder Layout Design (KLayout, G180 0.18µm)
-[🔗 2-bit Full Adder Layout Design](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design)  
-《Introduction to VLSI Final Project》成果，使用 **KLayout** 工具，依據 **G180 0.18µm 製程規格**完成 2-bit Full Adder 的版圖設計與驗證。  
+  
 
 ## 📫 Contact
 - GitHub: [Dniellu](https://github.com/Dniellu)  
