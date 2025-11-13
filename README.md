@@ -28,6 +28,14 @@
 
 ---
 
+### 🤖 Digital-Research-Assistant
+[🔗 數位研究助理](https://github.com/Dniellu/Digital-Research-Assistant)
+多代理人 AI 研究助理系統，結合自然語言分析與自動報表生成，實現學術資料的自動化處理與分析。
+**Tech:** Python, Autogen, NLP, Matplotlib, PDF Report Automation
+
+
+---
+
 ### 🧪Interactive Chemistry Teaching Webpage
 [🔗 化學互動式教學網頁](https://github.com/ArthurArthurArthur0817/Chemistry)  
 結合化學實驗，利用程式編寫，以更加直覺的方式，不受限於材料以及地點，讓孩子們在線上就可以實際動手進行化學實驗。  
